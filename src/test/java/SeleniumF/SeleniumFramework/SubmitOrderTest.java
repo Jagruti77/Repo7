@@ -48,7 +48,7 @@ public class SubmitOrderTest extends BaseTest{
       String actualmsg =  confirmationpage.getConfirmationMsg();
       System.out.println(actualmsg);
    Assert.assertEquals(actualmsg, ExpMsg);
-   System.out.println("success");
+   System.out.println("success and life ");
 }
 	
 	
