@@ -1,0 +1,10 @@
+SeleniumF\SeleniumFramework\ErrorValidation.class
+SeleniumF\SeleniumFramework\ReportValidation.class
+cucumber\TestNGTestRunner.class
+InitialConfigurationCode\BaseTest.class
+InitialConfigurationCode\Listeners.class
+SeleniumF\SeleniumFramework\SubmitOrderTest.class
+SeleniumF\SeleniumFramework\StandaloneTest2.class
+StepDefinition\StepDefinitionimpl.class
+InitialConfigurationCode\Retry.class
+SeleniumF\SeleniumFramework\StandaloneTest.class
